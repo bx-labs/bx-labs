@@ -1,45 +1,65 @@
-# Hi there, I'm Frank 👋  
+# Hi, I'm Frank 👋
 
-**AI × Blockchain × Biomedicine**  
-Building intelligent tools, decentralized systems, and biotech applications that ship.  
+AI × Blockchain × Infrastructure  
+Building **engineering-grade delivery systems** for Web3 teams that care about correctness, reproducibility, and responsibility boundaries.
 
 ---
 
 ## 🔥 About Me
-- 🧠 Background: Electronic Information Science & Technology + Research in **AI, Blockchain, Biomedicine**  
-- 📚 SCI publications in oncology & biotech  
-- 🌐 Entrepreneurial focus: **AI-driven tools, Web3 security, Biopharma innovation**  
-- 💡 Mission: Connect **cutting-edge AI** with **real-world decentralized finance** and **biomedical solutions**  
+
+- 🎓 Background: Electronic Information Science & Technology  
+- 🔬 Research experience in AI, Blockchain, and Biomedicine  
+- 📄 SCI publications in oncology & biotech  
+- 🧠 Focus: building **automation-first, verifiable systems** rather than opinion-based tooling
+
+I work on infrastructure that helps teams **deliver smart contracts responsibly**, with clear separation between:
+- what tools can guarantee, and  
+- what remains the user's responsibility.
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Notion_API-000000?logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Transformers-red" />
-  <img src="https://img.shields.io/badge/Bioinformatics-4CAF50" />
-</p>
+## 🧱 Tech Stack
+
+- **Languages**: Python · Rust · Solidity · TypeScript  
+- **Infra & Tooling**: CI/CD · GitHub Actions · Policy-based verification  
+- **Domains**: Web3 security · Compliance tooling · AI-assisted analysis  
+- **Philosophy**: reproducibility > convenience · evidence > claims
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Product · BX Labs Web3 Contract Delivery Infra
 
-### 📊 [notion-stock-sync](https://github.com/bx-labs/notion-stock-sync)  
-Sync your **stock portfolio** with **Notion** in real-time.  
-- ✅ Auto-update market value, cost basis, and gains  
-- ✅ Integrates with brokers & APIs  
-- ✅ Clean dashboards in Notion  
+**Engineering-grade Web3 contract delivery & compliance infrastructure**  
+Designed for teams operating in **high-risk, high-responsibility environments**.
 
-<p>
-  <img src="docs/screenshots/notion-stock-sync.png" width="600" alt="notion-stock-sync demo"/>
-</p>
+### What it provides
+- Deterministic CI pipelines for smart contract delivery  
+- Policy-driven verification & evidence generation  
+- Machine-readable audit artifacts (not opinions)  
+- Clear responsibility boundaries to avoid tool misuse
+
+### Design principles
+- Automation over manual review  
+- Evidence over subjective judgment  
+- Reproducibility over trust  
+
+🌐 **Product website**  
+👉 https://bx-labs.github.io
+
+📌 *Core engine, policy packs, and delivery pipelines are intentionally private.*
 
 ---
+
+## 🧭 Current Focus
+
+- Hardening contract delivery pipelines for real-world teams  
+- Reducing audit & compliance risk through tooling, not promises  
+- Designing infra that scales from internal CI to external review
+
+---
+
+> _I don't build SaaS dashboards.  
+> I build systems that survive audits, incidents, and time._
 
 ## 📂 Projects
 
