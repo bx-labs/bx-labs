@@ -7,7 +7,7 @@ Building **engineering-grade delivery systems** for Web3 teams that care about c
 
 ## 🔥 About Me
 
-- 🎓 Background: Electronic Information Science & Technology  
+- 🎓 Background: Computer, Biology Science & Technology  
 - 🔬 Research experience in AI, Blockchain, and Biomedicine  
 - 📄 SCI publications in oncology & biotech  
 - 🧠 Focus: building **automation-first, verifiable systems** rather than opinion-based tooling
