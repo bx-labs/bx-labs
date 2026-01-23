@@ -7,7 +7,7 @@ Building **engineering-grade delivery systems** for Web3 teams that care about c
 
 ## 🔥 About Me
 
-- 🎓 Background: Computer, Biology Science & Technology  
+- 🎓 Background: I am formally trained in Biological Sciences and transitioned into engineering through hands-on work in computing, AI systems, and infrastructure design, driven by real-world system reliability and compliance requirements.  
 - 🔬 Research experience in AI, Blockchain, and Biomedicine  
 - 📄 SCI publications in oncology & biotech  
 - 🧠 Focus: building **automation-first, verifiable systems** rather than opinion-based tooling
